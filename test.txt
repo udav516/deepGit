@@ -1,3 +1,4 @@
 Тестирование гита
 Add commit 1
 Add commit 2
+Add commit 3
